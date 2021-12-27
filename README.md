@@ -1,1 +1,1 @@
-# webdriverio-boilerplate
+# webdriverio-template
